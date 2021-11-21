@@ -422,4 +422,4 @@ client.on("ready", () => {
 console.log("Iniciado com sucesso!")
 });
 
-client.login('ODk3ODM2NzM2NzExOTA1MzEx.YWbdnw.6gbkeMRFlbrRs-xDHc5ISt3mSa8');
+client.login('Sua Token');
